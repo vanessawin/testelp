@@ -19,7 +19,8 @@ nav{
 
 nav a{
 	color: #ffffff;
-	text-transform: uppercase;	
+	text-transform: uppercase;
+	font-size: 1vw;	
 }
 nav a:hover {
 	background-color: #a6a10f;
@@ -213,10 +214,10 @@ section#services{
 	align-items: center;
 	text-align: center;
 }
-section#services
+
 
 section#services #titulo-p{
-	font-size: 35px;
+	font-size: 3vw;
 }
 
 section#services h1 span{
