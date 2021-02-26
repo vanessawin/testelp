@@ -239,6 +239,63 @@ section#services img{
 }
 
 
+/*sessao profiles*/
+#olad {
+	width: 100%;
+	height: auto;
+	margin-bottom: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+#olad div {
+	width: 300px;
+	height:180px; 	
+}
+#olad div h3 {
+	color: #333333;
+}
+#olad div p {
+	color: #999999;
+	text-align: justify;
+	padding-top: 30px;
+	padding-bottom: 48px;
+
+
+}
+#olad img{
+	border-radius: 20px;
+	margin-right: 50px;
+
+}
+
+#olad div h3 span{
+	color: #d8cd00;
+
+}
+#olad div a{
+	background-color: #d8cd00;
+	color: #ffffff;
+	padding: 4px 20px;
+	border-radius: 7px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -254,10 +311,7 @@ footer {
 	background-color: #141414;
 	padding: 0px;
 	margin: 0px;
-
-
 }
-
 footer #principal {
 	margin-left: 205px;
 	padding: 0px;
@@ -274,13 +328,11 @@ footer div div{
 }
 footer div div h4{
 	color: #c1b804;
-
-	
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 footer div div p{
 	margin: 0px;
-	padding: 4px;
+	padding: 6px;
 	color: #a3a3a3;
 	font-size: 14px;
 	}
@@ -290,3 +342,15 @@ footer div div p{
 footer div div a{
   color: #a3a3a3;
 }
+#redes-sociais a img{
+ 
+}
+
+
+
+
+
+
+
+
+
